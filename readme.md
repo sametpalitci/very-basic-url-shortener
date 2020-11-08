@@ -1,4 +1,5 @@
-Very basic url shortener
+# Very basic url shortener
+MongoDB + Express + Ejs
 ```bash
 npm start
 ```
